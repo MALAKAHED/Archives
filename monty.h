@@ -52,6 +52,8 @@ void pint(stack_t **stack, unsigned int line_number);
 
 /* swap.c */
 void swap(stack_t **stack, unsigned int line_number);
+/* add.c */
+void add(stack_t **stack, unsigned int line_number);
 
 /* helpers.c */
 void frstack(stack_t *stack);
